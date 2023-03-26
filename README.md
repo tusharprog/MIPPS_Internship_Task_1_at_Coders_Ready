@@ -55,6 +55,7 @@ Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Per
 
 ### 4. References:
 1- https://www.kaggle.com/datasets/muhammetvarl/global-terrorism
+
 2- https://medium.com/swlh/analysis-of-global-terrorism-dataset-888292e01873
 
 ### Video Explanation:
